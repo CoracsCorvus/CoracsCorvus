@@ -1,6 +1,6 @@
 <div align="center">
 
-# понятия не имею, что я документирую 🤔📝
+# Понятия не имею, что я документирую 🤔📝
 
   <img src="https://media1.tenor.com/m/77rqMj3uomoAAAAC/gritito.gif" width="300" />
 
