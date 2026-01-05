@@ -27,7 +27,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="60" height="60"/>&nbsp;
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/readthedocs.svg" title="ReadTheDocs" alt="ReadTheDocs" width="60" height="60"/>&nbsp;
 
 #### Разработка и версионирование
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
